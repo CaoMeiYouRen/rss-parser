@@ -50,5 +50,8 @@
     "RSS parser",
     "RSS to JS",
     "Feed reader"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
